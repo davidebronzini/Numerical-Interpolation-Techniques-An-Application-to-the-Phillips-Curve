@@ -1,3 +1,4 @@
+## Overview
 This project compares several numerical interpolation techniques through an application to the Phillips Curve using Italian macroeconomic data. The objective is not to accurately model the Phillips Curve, but to evaluate the numerical properties of different interpolation algorithms.
 
 The implemented methods include Lagrange interpolation, Newton interpolation, Neville's algorithm, local interpolation, quadratic splines and cubic splines.
